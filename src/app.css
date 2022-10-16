@@ -1,0 +1,10 @@
+body{
+    background-color: #000;
+    color: #fff;
+    margin:0;
+}
+.bmi-data{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
